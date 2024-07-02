@@ -256,4 +256,4 @@ app = gr.Interface(
     ]
 )
 
-app.launch()
+app.launch(share=True)
